@@ -1,6 +1,6 @@
 # Module_4_Challenge
 
-I have regfer to the following book and website in adiition to class materials to understand the usage of methods that I in the assignment.
+I referred to the following books and websites in addition to class materials to understand the usage of Pandas methods that I used in the assignment..
 
 # Reference
 # Beazley, D.M. and Jones, B.K. (2013). Python cookbook. Sebastopol, Ca: O’reilly.
